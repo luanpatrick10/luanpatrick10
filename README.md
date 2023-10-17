@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luan</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+
 
 - 🔭 I’m currently working on [Metha](https://www.metha.com.br/)
 
